@@ -20,21 +20,37 @@ Perform hypothesis testing to validate the relationships between demand and key 
 
 
 Column	Description
+
 datetime	Date and time of observation
+
 season	1: Spring, 2: Summer, 3: Fall, 4: Winter
+
 holiday	1 if the day is a holiday, 0 otherwise
+
 workingday	1 if it is a working day (not weekend/holiday), else 0
+
 weather	1: Clear/Partly Cloudy
-2: Mist/Cloudy
-3: Light Snow/Light Rain
-4: Heavy Rain/Snow/Fog
+
+        2: Mist/Cloudy
+
+        3: Light Snow/Light Rain
+        
+        4: Heavy Rain/Snow/Fog
+        
 temp	Temperature in Celsius
+
 atemp	Feels-like temperature in Celsius
+
 humidity	Humidity (%)
+
 windspeed	Wind speed
+
 casual	Count of casual users
+
 registered	Count of registered users
+
 count	Total rental bikes (casual + registered)
+
 🔍 Methodology
 1. Exploratory Data Analysis (EDA)
 
