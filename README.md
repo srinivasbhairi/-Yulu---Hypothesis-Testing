@@ -1,5 +1,13 @@
 # -Yulu---Hypothesis-Testing
 
+<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/fff23c7c-4d93-4ebc-9216-a9eb901d139e" />
+
+SRINIVAS BHAIRI | Data Scientist Aspirant 
+
+
+[Connect me on LinkedIn](https://www.linkedin.com/in/srinivas-bhairi)
+
+
 🚲 Yulu Electric Cycle Demand Analysis
 
 📌 Project Overview
