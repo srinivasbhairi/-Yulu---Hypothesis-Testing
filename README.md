@@ -61,3 +61,35 @@ Normality check (Histogram, Q-Q Plot, Shapiro-Wilk Test)
 Homogeneity of variance check (Levene’s Test)
 
 Proceed with tests and report assumptions validity
+### 📌 **Business Recommendations for Yulu Rentals**
+
+#### 1. **Integrate Seasonal Weather Forecasting**
+
+* Plan operations using **season-specific weather patterns**.
+* Allocate **bike inventory, servicing, and support staff** based on expected weather trends.
+
+#### 2. **Design Weather-Sensitive Campaigns**
+
+* Offer **rain or winter ride incentives** (discounts, loyalty points).
+* Run **summer campaigns** promoting leisure rides in good weather.
+
+#### 3. **Predictive Modeling**
+
+* Enhance rental demand models by including **weather-season interaction** as a feature.
+* Improves **forecasting accuracy** for resource allocation, pricing, and fleet balancing.
+
+#### 4. **User Safety & Communication**
+
+* Send **weather-based alerts** or safety tips, especially during seasons known for poor conditions (e.g., snow in winter).
+* Highlight **weather-based insurance or coverage** for users during high-risk periods.
+
+#### 5. **Dynamic Pricing**
+
+* Implement **seasonal pricing** that adapts to both **weather severity and frequency**.
+
+  * For example: Increase rates on clear days in summer; decrease during rainy fall days to boost usage.
+
+#### 6. **Operational Buffering**
+
+* Increase **maintenance checks** before weather-intensive seasons (like winter).
+* Deploy **weather protection infrastructure** (e.g., bike covers, station shelters) in seasons with high rainfall or snow.
